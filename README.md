@@ -43,9 +43,9 @@ Follow these steps to set up and run the project locally using XAMPP:
 
  3. Launch Application
 Open your web browser and visit:
-```text
-http://localhost/vehicle_service_centre
-```
+  ```text
+  http://localhost/vehicle_service_centre
+  ```
   Tech Stack
 
 * **Frontend:** HTML5, CSS3

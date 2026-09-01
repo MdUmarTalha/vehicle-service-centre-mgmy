@@ -22,9 +22,9 @@ vehicle_service_centre/
 ├── database_schema.sql      # MySQL database schema
 ├── index.php                # Home page
 └── dashboard.php            # Main dashboard page
----
+```
 
-## 🛠️ Installation & Setup
+Installation & Setup
 
 Follow these steps to set up and run the project locally using XAMPP:
 

@@ -46,7 +46,7 @@ Open your web browser and visit:
    ```text
    http://localhost/vehicle_service_centre
    ```
-###Tech Stack
+### Tech Stack
 
 * **Frontend:** HTML5, CSS3
 * **Backend:** PHP
